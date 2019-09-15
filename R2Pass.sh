@@ -1,5 +1,5 @@
 #!/bin/bash
-#Goal is to make a script that will use rockyou as password
+#Goal is to make a script that will use rockyou as a password
 #Meant to be used for basic authentication on json api pages
 while read p; do
     echo -n $p
